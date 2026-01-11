@@ -1,0 +1,7 @@
+{
+  "name": "Image to undertale encounter",
+  "description": "fight your pngs lol",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
